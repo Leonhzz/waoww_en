@@ -1,0 +1,90 @@
+
+---Upload files---
+Redux file was not uploaded. Error: 指定的文件没有通过上传测试。
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://www.waoww.com/en
+Data file = /www/wwwroot/www.waoww.com/en/wp-content/uploads/2020/06/newsup_lite.xml
+Widget file = /www/wwwroot/www.waoww.com/en/wp-content/uploads/2020/06/newsup-lite-widgets.wie
+Customizer file = /www/wwwroot/www.waoww.com/en/wp-content/uploads/2020/06/newsup-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "blog8" (媒体)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "blog10" (媒体)
+[ERROR] Failed to import "blog11" (媒体)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "blog11" (媒体)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "blog1" (媒体)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "blog4" (媒体)
+[ERROR] Failed to import "blog6" (媒体)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Widget Area : 
+
+搜索 - No Title - Widget already exists
+近期文章 - No Title - Widget already exists
+文章归档 - No Title - Widget already exists
+分类目录 - No Title - Widget already exists
+标签云 - No Title - Imported
+导航菜单 - No Title - Imported
+
+Front-page Content Section : 
+
+AR: Posts List - No Title - Imported
+AR: Featured Posts - No Title - Imported
+AR: Double Categories Posts - No Title - Imported
+AR: Latest News Post - No Title - Imported
+
+Front-page Sidebar Section : 
+
+近期文章 - Recent - Imported
+画廊 - Gallery - Imported
+标签云 - Tags - Imported
+分类目录 - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

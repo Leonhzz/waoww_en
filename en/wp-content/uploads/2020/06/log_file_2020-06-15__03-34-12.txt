@@ -1,0 +1,43 @@
+
+---Upload files---
+Redux file was not uploaded. Error: 指定的文件没有通过上传测试。
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://www.waoww.com/en
+Data file = /www/wwwroot/www.waoww.com/en/wp-content/uploads/2020/06/newsup_lite-1.xml
+Widget file = /www/wwwroot/www.waoww.com/en/wp-content/uploads/2020/06/newsup-lite-widgets-1.wie
+Customizer file = /www/wwwroot/www.waoww.com/en/wp-content/uploads/2020/06/newsup-export-1.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar Widget Area : 
+
+搜索 - No Title - Widget already exists
+近期文章 - No Title - Widget already exists
+文章归档 - No Title - Widget already exists
+分类目录 - No Title - Widget already exists
+标签云 - No Title - Widget already exists
+导航菜单 - No Title - Widget already exists
+
+Front-page Content Section : 
+
+AR: Posts List - No Title - Widget already exists
+AR: Featured Posts - No Title - Widget already exists
+AR: Double Categories Posts - No Title - Widget already exists
+AR: Latest News Post - No Title - Widget already exists
+
+Front-page Sidebar Section : 
+
+近期文章 - Recent - Widget already exists
+画廊 - Gallery - Widget already exists
+标签云 - Tags - Widget already exists
+分类目录 - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
